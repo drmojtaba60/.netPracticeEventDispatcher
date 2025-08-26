@@ -1,0 +1,48 @@
+# ASP.NET Core
+bin/
+obj/
+*.csproj.user
+*.pubxml
+*.pubxml.user
+wwwroot/
+
+# Visual Studio
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vs/
+
+# Rider (JetBrains IDE)
+.idea/
+*.iml
+
+# User-specific files
+*.DS_Store
+Thumbs.db
+
+# NuGet Packages
+*.nupkg
+packages/
+nuget.exe
+
+# Build and runtime
+*.log
+*.cache
+*.pidb
+*.svclog
+*.scc
+*.bak
+*.pdb
+*.dll
+*.exe
+*.zip
+*.tgz
+*.tar
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Environment and secrets
